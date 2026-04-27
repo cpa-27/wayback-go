@@ -1,0 +1,10 @@
+{
+  "name": "Wayback Go",
+  "description": "Search for the page you're currently visiting in the Internet Archive's Wayback Machine with the click of a button.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "assets/logo.png"
+  }
+}
